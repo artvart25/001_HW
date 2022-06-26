@@ -22,3 +22,6 @@ else
 {
     Console.WriteLine("Min number is " + num2);
 }
+
+
+
