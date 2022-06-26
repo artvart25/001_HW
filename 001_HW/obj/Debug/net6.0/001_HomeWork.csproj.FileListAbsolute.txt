@@ -1,0 +1,15 @@
+/Users/artem/Desktop/GB1/001_HomeWork/bin/Debug/net6.0/001_HomeWork
+/Users/artem/Desktop/GB1/001_HomeWork/bin/Debug/net6.0/001_HomeWork.deps.json
+/Users/artem/Desktop/GB1/001_HomeWork/bin/Debug/net6.0/001_HomeWork.runtimeconfig.json
+/Users/artem/Desktop/GB1/001_HomeWork/bin/Debug/net6.0/001_HomeWork.dll
+/Users/artem/Desktop/GB1/001_HomeWork/bin/Debug/net6.0/001_HomeWork.pdb
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.csproj.AssemblyReference.cache
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.AssemblyInfoInputs.cache
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.AssemblyInfo.cs
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.dll
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/refint/001_HomeWork.dll
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.pdb
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/001_HomeWork.genruntimeconfig.cache
+/Users/artem/Desktop/GB1/001_HomeWork/obj/Debug/net6.0/ref/001_HomeWork.dll
