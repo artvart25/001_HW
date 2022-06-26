@@ -1,0 +1,15 @@
+/Users/artem/Desktop/GB1/001_Seminar/bin/Debug/net6.0/001_Seminar
+/Users/artem/Desktop/GB1/001_Seminar/bin/Debug/net6.0/001_Seminar.deps.json
+/Users/artem/Desktop/GB1/001_Seminar/bin/Debug/net6.0/001_Seminar.runtimeconfig.json
+/Users/artem/Desktop/GB1/001_Seminar/bin/Debug/net6.0/001_Seminar.dll
+/Users/artem/Desktop/GB1/001_Seminar/bin/Debug/net6.0/001_Seminar.pdb
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.csproj.AssemblyReference.cache
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.AssemblyInfoInputs.cache
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.AssemblyInfo.cs
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.dll
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/refint/001_Seminar.dll
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.pdb
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/001_Seminar.genruntimeconfig.cache
+/Users/artem/Desktop/GB1/001_Seminar/obj/Debug/net6.0/ref/001_Seminar.dll
